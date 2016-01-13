@@ -1,6 +1,6 @@
 # PersonalityDNA
 ### Cluster Analysis Personality Type System
-All rights to this project and all content belong to Spark Wave, LLC.
+All rights to this project belong to Spark Wave, LLC.
 
 This repository is the home of a project undertaken at the behest of and with aid of [ClearerThinking.org](http://www.clearerthinking.org/). Our goal is to develop a new personality type system which has both the consistency, validity, predictive power of the Big 5 (5-factor Model) and popular appeal of personality type systems such Myers-Briggs and Enneagram. 
 
@@ -12,7 +12,7 @@ It is our impression that unlike the Five Factor Model which, as the name states
 ### How?
 Psychological researchers have developed extensive lists of questions which capture varying aspects of personality between people. Using factor analysis, one reduce a large number of questions and possibly traits to five. However instead of factoring responses to the personality questions, as in the FFM, one could attempt to cluster them and determine is distinct personality clusters emerge\**. This is our intention.
 
-Initially we will analyse existing datasets of psychometric responses, and eventually we can test our work via responses on [ClearerThinking.org](www.clearerthinking.org) which has received in excess of 100,000 responses on some of its quizzes.
+Initially we will analyse existing datasets of psychometric responses, and eventually we can test our work via responses on [ClearerThinking.org](www.clearerthinking.org) which has received in excess of 100,000 responses to some of its questionnaires.
 
 ### Technical Details and Challenges
 We are starting with a dataset mailed available by Harvard University: [Selected personality data from the SAPA-Project: 08Dec2013 to 26Jul2014](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SD7SVE)
